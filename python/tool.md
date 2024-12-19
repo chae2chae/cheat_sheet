@@ -1,4 +1,4 @@
 ### Tools
-| name       | link       | cheat sheet       |
+| name-sheet link       | link       | 
 |-------------|-------------|-------------|
-| unittest     | [documents](https://docs.python.org/ko/3/library/unittest.html)     | ./unittest/     |
+| [unittest](./unittest/)    | [documents](https://docs.python.org/ko/3/library/unittest.html)     |
