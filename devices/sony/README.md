@@ -1,0 +1,53 @@
+# Sony FDR-X3000R
+
+- 시리얼 통신 하는 것으로 보임
+
+# 사양
+
+- 크기
+    - **치수(W x H x D)**약 29.4 x 47.0 x 83.0mm
+    - **무게**약 114g(제공 배터리 포함) (제공 배터리 포함)
+- 센서
+    - 약 8.57메가픽셀**센서 유형**7.20mm 이면조사형 "Exmor R®" CMOS 센서
+    - **유효 픽셀(비디오)**약 8.2메가픽셀 [1](https://www.sony.co.kr/electronics/support/action-cam-fdr-x-series/fdr-x3000r/specifications#rfn-1) [2](https://www.sony.co.kr/electronics/support/action-cam-fdr-x-series/fdr-x3000r/specifications#rfn-2)**유효 픽셀(스틸 이미지)**약 8.2메가픽셀 [1](https://www.sony.co.kr/electronics/support/action-cam-fdr-x-series/fdr-x3000r/specifications#rfn-1) [2](https://www.sony.co.kr/electronics/support/action-cam-fdr-x-series/fdr-x3000r/specifications#rfn-2)
+- 렌즈
+    - **초점 거리(35mm)(스틸 이미지)**f= 17mm(와이드), f= 23mm(미디엄), f= 32mm(내로우)**초점 거리(35mm)(비디오)**f= 17mm(와이드), f= 23mm(미디엄), f= 32mm(내로우)**최소 초점 거리**약 50cm
+    - **F값(최대 조리개)**F2.8**렌즈 유형**ZEISS® Tessar
+- 손떨림 보정
+    - **SteadyShot**Balanced Optical SteadyShot™ 액티브 모드
+- 노출
+    - **최소 조명**6럭스(1/30 셔터 속도)
+    - **노출 모드**멀티 세그먼트
+- 화이트 밸런스
+    - **화이트밸런스 모드**자동/색온도/사용자 지정
+- 셔터
+    - **셔터 속도**1/30 - 1/10,000(30fps)
+- 촬영
+    - **내진**제공 방수 하우징(MPK-UWH1) 사용 시 [3](https://www.sony.co.kr/electronics/support/action-cam-fdr-x-series/fdr-x3000r/specifications#rfn-3)**방수**제공 방수 하우징(MPK-UWH1) 사용 시 최대 60m**이미지 프로세서**BIONZ X™ 이미지 프로세서
+    - **기타 촬영 기능**루프 레코딩, 모션 샷 LE, 초고속 연속촬영, 4K 타임랩스 캡처, 라이브 스트리밍 [4](https://www.sony.co.kr/electronics/support/action-cam-fdr-x-series/fdr-x3000r/specifications#rfn-4)**방진**제공 방수 하우징(MPK-UWH1) 사용 시 [3](https://www.sony.co.kr/electronics/support/action-cam-fdr-x-series/fdr-x3000r/specifications#rfn-3)
+- 레코딩
+    - **레코딩 포맷(비디오)**MP4: MPEG-4 AVC/H.264, XAVC S 포맷: MPEG-4 AVC/H.264**비디오 해상도**MP4 PS: 1920 x 1080 60p/50p, MP4 HQ: 1920 x 1080 30p/25p, MP4 STD: 1280 x 720 30p/25p, MP4 HS120(HS100): 1280 x 720 120p/100p, MP4 HS240(HS200): 800 x 480 240p/200p, XAVC S: 3840 x 2160 30p/25p/24p, 1920 x 1080 120p/100p, 1280 x 720 240p/200p, 1920 x 1080 60p/50p/30p/25p/24p**스틸 이미지 크기(사진 모드)**약 12.0메가픽셀 16:9(4608 x 2592) [2](https://www.sony.co.kr/electronics/support/action-cam-fdr-x-series/fdr-x3000r/specifications#rfn-2)
+    - **레코딩 포맷(스틸 이미지)**DCF Ver.2.0 호환 가능, Exif Ver. 2.3 호환 가능, MPF Baseline 호환 가능**비디오 레코딩 속도(ABR/VBR)**MP4 PS: 약 28Mbps/HQ: 약 16Mbps/STD: 약 6Mbps/HS120(HS100): 약 28Mbps/HS240(HS200): 약 28Mbps, XAVC S 3840 x 2160 30p/25p/24p: 약 100Mbps/60Mbps, 1920 x 1080 120p/100p: 100Mbps/60Mbps, 1280 x 720 240p/200p: 100Mbps/60Mbps, 1920 x 1080 60p/50p/30p/25p/24p 약 50Mbps
+- 레코딩 미디어
+    - **호환 레코딩 미디어**Memory Stick Micro™ 및 Micro SD/SDHC/SDXC 호환 가능
+- 오디오
+    - **오디오 레코딩 포맷**MP4/MPEG-4 AAC-LC 2채널, XAVC S: LPCM 2채널**마이크**스테레오 마이크 내장
+    - **스피커**모노 스피커
+- 인터페이스
+    - **입력 및 출력 터미널**마이크로 HDMI 출력, 메모리 카드 슬롯, 멀티/마이크로 USB 터미널, 스테레오 미니잭
+- 전력
+    - **전원 요구사항**3.6 V(배터리 팩)
+    - **배터리 유형**NP-BX1
+- 연속 레코딩 시간(제공된 완충 배터리 사용 시)(근사치)
+    - **카메라 WI-FI 꺼짐**XAVC S: 3840 × 2160 30p 60Mbps(4K) 60분, MP4: 1920 x 1080 30p(HQ) 135분 [5](https://www.sony.co.kr/electronics/support/action-cam-fdr-x-series/fdr-x3000r/specifications#rfn-5)
+    - **카메라 WI-FI 켜짐**XAVC S: 3840 × 2160 30p 60Mbps(4K) 50분, MP4: 1920 x 1080 30p (HQ) 125분 [5](https://www.sony.co.kr/electronics/support/action-cam-fdr-x-series/fdr-x3000r/specifications#rfn-5) [6](https://www.sony.co.kr/electronics/support/action-cam-fdr-x-series/fdr-x3000r/specifications#rfn-6)
+- 라이브뷰 리모콘
+    - **배터리 수명**155분 (라이브뷰 디스플레이)**무게**46g(바디만)**모델 이름**RM-LVR3
+    - **연결**Wi-Fi, Bluetooth V4.1**치수(WxHxD)**47.8 x 52.6 x 19.0mm
+- 내용물
+    - 충전식 배터리 팩(NP-BX1)
+    - 마이크로 USB 케이블
+    - 시작 가이드
+    - 방수 하우징(MPK-UWH1)
+    - 부착 버클
+    - 라이브뷰 리모콘(RM-LVR3)에는 손목 밴드, 마운트 어댑터, 크래들이 포함되어 있습니다.
